@@ -4,6 +4,7 @@ Repository containing Clarity Ventures project assignment for Edgar Diaz
 To test this program please unzip the file and make the changes below.
 
 # The first step will be to sign up for a SendGrid account and generate an API Key to test this program.
+- https://sendgrid.com/en-us/solutions/email-api
 
 # Within the 'ProjectScenarioLibrary' folder locate the EmailSender.cs Class File:
 - Update/change line 30 to have your email and name associated with your SendGrid Account.

@@ -19,3 +19,6 @@ To test this program please unzip the folder and make the changes below.
 - Update line 3 with your API Key from SendGrid
 
 # Now you should be able to complie the application and run the program. 
+
+# Note: File Path for DLL: ProjectScenarioLibrary\bin\Debug\net8.0\ProjectScenarioLibrary.dll
+

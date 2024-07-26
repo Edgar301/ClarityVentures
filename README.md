@@ -27,5 +27,6 @@ To test this program, please unzip the folder and make the changes below.
 
 > # One Possible Error:
 > ![image](https://github.com/user-attachments/assets/7222dba5-2b66-44c9-b78a-d46eee152ce7)
+> 
 > I was not able to fully debug this as I was running out of time, but please note that this does not affect the program! Everything works as it should, and you can send emails without issue once the initial setup is done correctly.
 

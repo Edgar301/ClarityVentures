@@ -1,7 +1,7 @@
 # ClarityVentures
 Repository containing Clarity Ventures project assignment for Edgar Diaz
 
-To test this program please unzip the file and make the changes below.
+To test this program please unzip the folder and make the changes below.
 
 # The first step will be to sign up for a SendGrid account and generate an API Key to test this program.
 - https://sendgrid.com/en-us/solutions/email-api
@@ -14,3 +14,5 @@ To test this program please unzip the file and make the changes below.
 
 # Within the 'EmailSenderApi' folder locate the appsettings.json File:
 - Update line 3 with your API Key from SendGrid
+
+# Now you should be able to complie the application and run the program. 

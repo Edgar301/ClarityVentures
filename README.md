@@ -21,7 +21,7 @@ To test this program, please unzip the folder and make the changes below.
 # Within the 'EmailSenderApi' folder, locate the appsettings.json file:
 - Update line 3 with your API Key from SendGrid.
 
-# Now you should be able to compile the application and run the program.
+# Save all your changes and now you should be able to select 'ProjectScenarioLibrary.sln' file from the solutions explorer and run the program.
 
 # Note: File Path for DLL: ProjectScenarioLibrary\bin\Debug\net8.0\ProjectScenarioLibrary.dll
 
